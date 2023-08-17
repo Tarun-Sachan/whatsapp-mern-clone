@@ -1,6 +1,7 @@
 ﻿# [WhatsApp MERN Clone](https://whatsapp-frontend-one.vercel.app/)
 
 WhatsApp like fullstack web application.
+Note- Please wait for Vercel to fetch data from backend.
 
 Features:
 
